@@ -1,0 +1,7 @@
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\02. ExtendingWithInto\bin\Debug\_02.ExtendingWithInto.exe.config
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\02. ExtendingWithInto\bin\Debug\_02.ExtendingWithInto.exe
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\02. ExtendingWithInto\bin\Debug\_02.ExtendingWithInto.pdb
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\02. ExtendingWithInto\obj\Debug\02. ExtendingWithInto.csproj.CoreCompileInputs.cache
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\02. ExtendingWithInto\obj\Debug\_02.ExtendingWithInto.exe
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\02. ExtendingWithInto\obj\Debug\_02.ExtendingWithInto.pdb
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\02. ExtendingWithInto\obj\Debug\02. ExtendingWithInto.csprojResolveAssemblyReference.cache
